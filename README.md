@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [K-List](https://github.com/kaioenzo/K-List)
 
-- 🌱 I’m currently learning **Angular, Spring Boot, Nest, Python**
+- 🌱 I’m currently learning **Angular, Spring Boot, TailWindCSS**
 
 - 🤝 I’m looking for help with [pokedex](https://github.com/kaioenzo/pokedex)
 
