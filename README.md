@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kaioenzobr@gmail.com**
 
-- 📄 Know about my experiences [I am currently a FullStack Development and Software Engineering intern and studen of Software Engineering at Universidade de Brasília. I work in the creation, maintenance and scalability of software, using Angular, Spring Boot, React Native and React.](I am currently a FullStack Development and Software Engineering intern. I work in the creation, maintenance and scalability of software, using Angular, Spring Boot, React Native and React.)
+- 📄 Know about my experiences: I am currently a FullStack Development and Software Engineering intern and student of Software Engineering at Universidade de Brasília. I work in the creation, maintenance and scalability of software, using Angular, Spring Boot, React Native and React.
 
 - ⚡ Fun fact **Funny is relatively.**
 
