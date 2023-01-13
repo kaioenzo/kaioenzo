@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [K-List](https://github.com/kaioenzo/K-List)
 
-- 🌱 I’m currently learning **Angular, Spring Boot, TailWindCSS, Dark and Flutter**
+- 🌱 I’m currently learning **Angular, Java,Spring Boot, TailWindCSS, Dart and Flutter**
 
 - 🤝 I’m looking for help with [pokedex](https://github.com/kaioenzo/pokedex)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kaioenzobr@gmail.com**
 
-- 📄 Know about my experiences: **I am currently a FullStack Development and Software Engineering intern and student of Software Engineering at Universidade de Brasília. I work in the creation, maintenance and scalability of software, using Angular, Spring Boot, React Native and React.**
+- 📄 Know about my experiences: **I am currently a FullStack Development intern and student of Software Engineering at Universidade de Brasília. I work in the creation, maintenance and scalability of software as intern, using Angular, Spring Boot, React Native and Flutter.**
 
 - ⚡ Fun fact **Funny is relatively.**
 
