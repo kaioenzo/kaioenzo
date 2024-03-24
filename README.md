@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaioenzo" alt="kaioenzo" /></a> </p>
 
-- 🔭 I’m currently working on [K-List](https://github.com/kaioenzo/K-List)
+- 🔭 I’m currently not working on any personal project :(
 
 - 🌱 I’m currently learning **Data structures and compilators**
 
