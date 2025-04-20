@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaioenzo" alt="kaioenzo" /></a> </p>
 
-- 🔭 I’m currently not working on any personal project :(
-
-- 🌱 I’m currently learning **Data structures and compilators**
-
-- 🤝 I’m looking for help with [pokedex](https://github.com/kaioenzo/pokedex)
-
 - 👨‍💻 All of my projects are available at [https://github.com/kaioenzo](https://github.com/kaioenzo)
 
 - 💬 Ask me about **React, React Native, JavaScript, TypeScript, Spring Boot, Kotlin, Java, Angular, HTML, CSS**
 
 - 📫 How to reach me **kaioenzobr@gmail.com**
 
-- 📄 Know about my experiences: **I am currently a FullStack Jr Developer and student of Software Engineering at Universidade de Brasília. I work in the creation, maintenance and scalability of software as intern, using Angular and Spring Boot.**
+- 📄 Know about my experiences: **I am currently a FullStack Mid-level Developer and student of Software Engineering at Universidade de Brasília. I work in the creation, maintenance and scalability of software in corporative industry, using Angular and Spring Boot.**
 
 - ⚡ Fun fact **I love hip-hop, but i'm dumb nerd.**
 
